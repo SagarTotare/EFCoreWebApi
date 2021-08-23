@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{9041C3EC-AD37-4D5D-B8C2-077B45D1C20C}|Default">
+  <MonoDevelop.Ide.ItemProperties.EFCoreWebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/TokenController.cs">
+    <Files>
+      <File FileName="appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Models/AspNetUser.cs" />
+      <File FileName="Models/AspNetUserToken.cs" />
+      <File FileName="Controllers/UsersController.cs" />
+      <File FileName="Controllers/TokenController.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="EFCoreWebApi" expanded="True">
+            <Node name="EFCoreWebApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="TokenController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
